@@ -91,4 +91,4 @@ test.remove('name');
 test.update('name', 'property', 'Value');
 test.get();
 ```
-## Código completo [Clique aqui!](./cadastro-de-pessoas/index.js)
+## Código completo [Clique aqui!](/cadastro-de-pessoas/index.js)
