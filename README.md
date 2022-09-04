@@ -18,7 +18,7 @@ para que sirvam de materiais de consulta, para algum problema específico.
     </tr>
     <tr>
       <td>Gerador de Senhas</td>
-      <td><a href='./gerador-de-senhas/index.js'></a>Link</td>
+      <td><a href='./gerador-de-senhas/index.js'>Link</a></td>
     </tr>
   </tbody>
 </table>
